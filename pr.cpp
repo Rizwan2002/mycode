@@ -4,5 +4,5 @@ int main(){
 
     int x;
     x=max(40,35);
-    cout<<x;
+    return 0;
 }
